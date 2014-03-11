@@ -112,8 +112,7 @@
 		B821167E18CF5F010075C3BD /* YouGuess */ = {
 			isa = PBXGroup;
 			children = (
-				B821168718CF5F010075C3BD /* guessAppDelegate.h */,
-				B821168818CF5F010075C3BD /* guessAppDelegate.m */,
+				B82116AE18CF5F430075C3BD /* Models */,
 				B821168A18CF5F010075C3BD /* Main.storyboard */,
 				B821168D18CF5F010075C3BD /* guessViewController.h */,
 				B821168E18CF5F010075C3BD /* guessViewController.m */,
@@ -126,6 +125,8 @@
 		B821167F18CF5F010075C3BD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B821168718CF5F010075C3BD /* guessAppDelegate.h */,
+				B821168818CF5F010075C3BD /* guessAppDelegate.m */,
 				B821168018CF5F010075C3BD /* YouGuess-Info.plist */,
 				B821168118CF5F010075C3BD /* InfoPlist.strings */,
 				B821168418CF5F010075C3BD /* main.m */,
@@ -150,6 +151,13 @@
 				B82116A018CF5F010075C3BD /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B82116AE18CF5F430075C3BD /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
