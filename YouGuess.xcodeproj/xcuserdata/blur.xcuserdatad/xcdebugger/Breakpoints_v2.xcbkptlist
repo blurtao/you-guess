@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "YouGuess/guessViewController.m"
-            timestampString = "416248419.655416"
+            timestampString = "416284035.941132"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
             landmarkName = "-changResultLabel:"
             landmarkType = "5">
          </BreakpointContent>

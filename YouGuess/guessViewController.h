@@ -21,6 +21,7 @@
 @property (nonatomic) int roundValue;
 
 - (void)changResultLabel:(int) what;
+- (void)updateLabel:(int)winOrLose;
 - (int)getRandom;
 
 
